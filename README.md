@@ -1,2 +1,1 @@
-# afua
-script 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/afua0012/afua/main/afua-premium.lua"))()
